@@ -3,4 +3,4 @@ A python script utilizing ImageMagick that can mass convert, rename and resize i
 
 Requirements:
 Python      (https://www.python.org/downloads/),
-ImageMagic  (https://imagemagick.org/script/download.php)
+ImageMagic  (https://imagemagick.org/script/download.php#windows)
